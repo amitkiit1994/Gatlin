@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Amit Kumar Das1",
+    "gender": "Male",
+    "email": "amit1kiit1994@gmail.com",
+    "status": "Active"
+  },
+  {
+    "name": "Amit Kumar Das2",
+    "gender": "Male",
+    "email": "amit2kiit1994@gmail.com",
+    "status": "Active"
+  },
+  {
+    "name": "Amit Kumar Das3",
+    "gender": "Male",
+    "email": "amit3kiit1994@gmail.com",
+    "status": "Active"
+  },
+  {
+    "name": "Amit Kumar Das4",
+    "gender": "Male",
+    "email": "amit4kiit1994@gmail.com",
+    "status": "Active"
+  }
+]
